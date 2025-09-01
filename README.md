@@ -35,7 +35,7 @@ python -m pip install -r requirements.txt
 - s3_prefix = 'temp/file' #REEMPLAZAR CON SU PROPIA AMAZON S3 BUCKET PREFIX
 
 
-3. Ejecutar proyecto:
+4. Ejecutar proyecto:
 ```
 streamlit run app\content_analyzer.py
 ```
