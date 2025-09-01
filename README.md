@@ -1,7 +1,7 @@
 
 ## Descripción
 
-Su objetivo es que te ayuda a analizar el texto  o audio de distontos tipos de archivos el cual te proporcionara un resumen en el idioma que tu elijas del contenido de 1 a 5 temas pricipales del resumen optenido.
+Su objetivo es que te ayuda a analizar el texto  o audio de distontos tipos de archivos el cual te proporcionara un resumen y del contenido te generara de 1 a 5 temas pricipales en base del resumen optenido en el idioma que tu elijas tanto el resumen y los temas.
 
 
 ## 📋 Requisitos Previos
