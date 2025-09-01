@@ -1,0 +1,4 @@
+streamlit
+pypdf
+boto3
+SpeechRecognition
