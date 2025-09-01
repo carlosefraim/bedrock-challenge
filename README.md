@@ -28,7 +28,7 @@ python -m pip install -r requirements.txt
 
 3. configurar de las constantes a usar de AWS :
 
-Del archivo de app/constants.py
+  Del archivo de app/constants.py
 
 - region = 'us-east-1' #REEMPLAZAR CON SU PROPIA REGIÓN DE AWS
 - s3_bucket = 'bedrock-carlos-file' #REEMPLAZAR CON SU PROPIA AMAZON S3 BUCKET
